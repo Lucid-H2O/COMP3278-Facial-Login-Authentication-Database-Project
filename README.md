@@ -1,9 +1,11 @@
 <h1>#COMP3278-Project - group 33</h1>
 This is a python project for the course COMP3278 that stores the facial recognition data in a database for authentication.
-The user interface is built using PyQT5 and MySQL is used for storage.
+<p>UI: PyQT5</p>
+<p>Database: MySQL</p>
+<p>Facial Recognition: Haar Cascade</p>
 
 <h2>COMMANDS:</h2>
-Convert ui to .py:<br>
+Convert files from .ui to .py:<br>
 
 ```
 pyuic5 -o homepage.py homepage.ui
