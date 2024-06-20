@@ -4,12 +4,16 @@ The user interface is built using PyQT5 and MySQL is used for storage.
 
 <h2>COMMANDS:</h2>
 Convert ui to .py:<br>
-pyuic5 -o homepage.py homepage.ui<br>
-pyuic5 -o login.py login.ui<br>
+
+```
+pyuic5 -o homepage.py homepage.ui
+pyuic5 -o login.py login.ui
+```
 
 <h3>resource browser:</h3>
-pyrcc5 resource.qrc -o resource_rc.py<br>
-import database: source facerecognition.sql<br>
 
-
+```
+pyrcc5 resource.qrc -o resource_rc.py
+import database: source facerecognition.sql
+```
 
