@@ -1,0 +1,54 @@
+#MainWindow{
+    background-color: #fff;
+}
+
+#menu_btn{
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#icon_widget{
+    background-color:#8ec63f;
+    width: 50px;
+}
+
+#icon_widget QPushButton, QLabel{
+    height: 50px;
+    border: none;
+}
+
+#icon_widget QPushButton:hover{
+    background-color: #77ae29;
+}
+
+#header_widget{
+    background-color: #D3D3D3;
+}
+
+#main_form{
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+
+#username_lineEdit{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: -internal-light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4));
+}
+
+
+#login_btn{
+    background-color: #8ec63f;
+    border-radius: 5px;
+    border: 2px solid #8ec63f;
+}
+
+#login_btn:hover{
+    background-color: #77ae29
+}
+
+#error_message{
+    color: red;
+}

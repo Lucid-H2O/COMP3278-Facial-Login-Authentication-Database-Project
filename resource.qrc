@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/hku.jpg</file>
+    <file>icons/exitw.png</file>
+    <file>icons/historyw.png</file>
+    <file>icons/homew.png</file>
+    <file>icons/timetablew.png</file>
+    <file>icons/user.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/HKU (3).png</file>
+    <file>icons/history.png</file>
+    <file>icons/home.png</file>
+    <file>icons/timetable.png</file>
+  </qresource>
+</RCC>
