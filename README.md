@@ -1,13 +1,14 @@
 #COMP3278-Project - group 33
-COMMANDS:
+This project stores the facial recognition data in a database for authentication.
+The user interface is built using PyQT5 and MySQL is used for storage.
 
+COMMANDS:
 Convert ui to .py:
 pyuic5 -o homepage.py homepage.ui
 pyuic5 -o login.py login.ui
 
 resource browser:
 pyrcc5 resource.qrc -o resource_rc.py
-
 
 import database: source facerecognition.sql
 
